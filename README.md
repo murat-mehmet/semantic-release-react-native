@@ -1,5 +1,9 @@
 # semantic-release-react-native
 
+Used module: @mmbt/pbxproj-dom
+
+Npm: @mmbt/semantic-release-react-native
+
 [![npm version](https://badge.fury.io/js/semantic-release-react-native.svg)](https://badge.fury.io/js/semantic-release-react-native)
 
 A [Semantic Release](https://github.com/semantic-release/semantic-release) plugin
